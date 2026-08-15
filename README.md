@@ -116,16 +116,25 @@ An interactive website concept designed to showcase products with modern web tec
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anmolsharma25865-ops&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Anmol's GitHub Stats"
-  />
+  <a href="https://github.com/anmolsharma25865-ops">
+    <img src="https://img.shields.io/github/followers/anmolsharma25865-ops?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
+  </a>
+
+  <a href="https://github.com/anmolsharma25865-ops?tab=repositories">
+    <img src="https://img.shields.io/github/stars/anmolsharma25865-ops?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars">
+  </a>
+
+  <img src="https://img.shields.io/github/repo-size/anmolsharma25865-ops/anmolsharma25865-ops?style=for-the-badge&label=Profile%20Repo" alt="Repository Size">
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/anmolsharma25865-ops?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My-Repositories-181717?style=for-the-badge&logo=github" alt="Repositories">
+  </a>
+</p>
 
 ## 🔥 GitHub Streak
 
