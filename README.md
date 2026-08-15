@@ -1,4 +1,3 @@
-````markdown
 # 👋 Hi, I'm Anmol Sharma
 
 ### 💻 Software Engineer | Full-Stack Developer | Technology Enthusiast
@@ -28,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
@@ -144,74 +143,4 @@ An interactive web experience designed to showcase products using modern web tec
 ✓ Learn Cloud Computing
 ✓ Contribute to Open Source
 ✓ Build Innovative Projects
-✓ Improve System Design Skills
-````
-
----
-
-## 🌱 Currently Learning
-
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-☁️ Cloud Computing
-🌐 Advanced Web Development
-🐳 Docker & DevOps
-🏗️ Software Architecture
-```
-
----
-
-## 📌 My Development Philosophy
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
-
-I believe the best way to learn technology is by building real-world projects and continuously improving them.
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 Developer Quote
-
-<p align="center">
-
-> "Great software is built by solving real problems with simple, thoughtful solutions."
-
-</p>
-
----
-
-## ⭐ Support
-
-If you find my projects useful or interesting, consider giving them a ⭐.
-
-<p align="center">
-
-### 🚀 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</p>
-```
-
+✓ Improve System Design Skill
