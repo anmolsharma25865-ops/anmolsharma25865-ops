@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Anmol Sharma
 
-### 💻 Software Engineer | Flutter Developer | Technology Enthusiast
+### 💻 Software Engineer | Full-Stack Developer | Technology Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Technology+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
-<p align="center">/>
+<p align="center">
+ 
 </p>
 
 ---
@@ -127,6 +128,8 @@ An interactive web experience designed to showcase products using modern web tec
 
 <p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
 </p>
 
 ---
@@ -140,4 +143,4 @@ An interactive web experience designed to showcase products using modern web tec
 ✓ Learn Cloud Computing
 ✓ Contribute to Open Source
 ✓ Build Innovative Projects
-✓ Improve System Design Skill
+✓ Improve System Design Skills
