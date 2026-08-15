@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Anmol Sharma
 
-### 💻 Software Engineer | Full-Stack Developer | Technology Enthusiast
+### 💻 Software Engineer | Flutter Developer | Technology Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Technology+Enthusiast;Always+Learning+%26+Building" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">/>
 </p>
 
 ---
@@ -127,8 +126,6 @@ An interactive web experience designed to showcase products using modern web tec
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </p>
 
