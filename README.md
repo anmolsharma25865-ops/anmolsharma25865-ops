@@ -3,7 +3,7 @@
 ## 💻 Software Engineer | Flutter Developer | AI Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Technology+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Flutter+Developer;AI+%26+Technology+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -174,17 +174,29 @@ An interactive website concept designed to showcase products with modern web tec
 </p>
 
 ---
-
-## 📈 Most Used Languages
+## 📈 Languages & Technologies
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsharma25865-ops&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+
 </p>
 
----
+### 🐍 Python
+```text
+Python • AI • Machine Learning • Automation • Backend Development
+
+
 
 ## 🎯 Current Goals
 
