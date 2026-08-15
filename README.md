@@ -119,21 +119,50 @@ An interactive website concept designed to showcase products with modern web tec
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/anmolsharma25865-ops">
-    <img src="https://img.shields.io/github/followers/anmolsharma25865-ops?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
-  </a>
 
   <a href="https://github.com/anmolsharma25865-ops?tab=repositories">
-    <img src="https://img.shields.io/github/stars/anmolsharma25865-ops?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars">
+    <img src="https://img.shields.io/badge/Repositories-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
   </a>
 
-  <img src="https://img.shields.io/github/repo-size/anmolsharma25865-ops/anmolsharma25865-ops?style=for-the-badge&label=Profile%20Repo" alt="Repository Size">
+  <a href="https://github.com/anmolsharma25865-ops?tab=followers">
+    <img src="https://img.shields.io/github/followers/anmolsharma25865-ops?style=for-the-badge&logo=github&label=Followers" alt="Followers">
+  </a>
+
+  <a href="https://github.com/anmolsharma25865-ops">
+    <img src="https://img.shields.io/github/stars/anmolsharma25865-ops?style=for-the-badge&logo=github&label=Stars" alt="Stars">
+  </a>
+
 </p>
 
+---
+
+## 💻 GitHub Profile
+
 <p align="center">
-  <a href="https://github.com/anmolsharma25865-ops?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My-Repositories-181717?style=for-the-badge&logo=github" alt="Repositories">
+
+  <a href="https://github.com/anmolsharma25865-ops">
+    <img src="https://img.shields.io/badge/GitHub-anmolsharma25865--ops-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
+
+  <a href="https://github.com/anmolsharma25865-ops?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20Projects-2ea44f?style=for-the-badge&logo=github" alt="Projects">
+  </a>
+
+</p>
+
+---
+
+## 📈 My Development
+
+<p align="center">
+
+  🔹 Software Development  
+  🔹 Artificial Intelligence  
+  🔹 Machine Learning  
+  🔹 Full-Stack Development  
+  🔹 Cloud Computing  
+  🔹 DevOps  
+
 </p>
 
 ## 🔥 GitHub Streak
