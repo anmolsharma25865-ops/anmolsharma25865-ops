@@ -193,10 +193,10 @@ An interactive website concept designed to showcase products with modern web tec
 </p>
 
 ### 🐍 Python
-```text
+
 Python • AI • Machine Learning • Automation • Backend Development
 
-
+---
 
 ## 🎯 Current Goals
 
@@ -234,11 +234,11 @@ I believe the best way to learn technology is by building real-world projects an
 
 <p align="center">
   <a href="https://github.com/anmolsharma25865-ops">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
   <a href="mailto:anmolsharma25865@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
